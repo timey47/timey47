@@ -2,13 +2,11 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 <h1 align="center">Hi 👋, I'm Timothy Alexander</h1>
 <h3 align="center">A passionate C.S Student at the University of South Carolina looking to become a Software Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+
 - 🔭 I’m currently working on **Creating an application using a ChatGPT API.**
 - 🌱 I’m currently learning **CSCE 240 (Advanced Programming Techniques on C++), CSCE 416 Computer Networking, CSCE 211 Digital Logic Design**
-
 - 💬 Ask me about **Python**
 - 📫 How to reach me **timey47@gmail.com**
-
 - ⚡ Fun fact **Love playing the piano.**
 
 <h3 align="left">Connect with me:</h3>
