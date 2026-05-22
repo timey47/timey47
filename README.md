@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png" />
+
 # Timothy Alexander
 
 ### AI Engineer • Full Stack Developer • Healthcare Tech Builder
 
-Building intelligent software that solves real-world problems in healthcare, education, and AI.
+Building intelligent software focused on AI, healthcare, and scalable systems.
 
 <br>
 
@@ -21,7 +23,7 @@ Building intelligent software that solves real-world problems in healthcare, edu
 </a>
 
 <a href="https://github.com/timey47">
-  <img src="https://img.shields.io/github/followers/timey47?style=for-the-badge&color=181717"/>
+  <img src="https://komarev.com/ghpvc/?username=timey47&style=for-the-badge&color=blueviolet"/>
 </a>
 
 </div>
@@ -30,47 +32,39 @@ Building intelligent software that solves real-world problems in healthcare, edu
 
 # About Me
 
-Computer Science student at the **University of South Carolina** focused on building AI-powered software and scalable backend systems.
-
-Currently interested in:
-- Artificial Intelligence
-- Full Stack Development
-- Healthcare Technology
-- Machine Learning
-- Backend Engineering
-- System Design
+- 🎓 Computer Science student at the University of South Carolina
+- 🧠 Interested in Artificial Intelligence, Full Stack Development, and Healthcare Technology
+- 🚀 Building AI-powered applications and scalable backend systems
+- 💻 Currently working on AI + healthcare focused projects
+- 🎹 Piano player and worship musician
 
 ---
 
 # Featured Projects
 
 ## 🧠 AdvisorGPT
-AI-powered academic advisor platform built for university students.
+AI-powered academic advising platform using Retrieval-Augmented Generation (RAG).
 
 ### Features
-- AI chatbot using RAG
-- Personalized course recommendations
-- DegreeWorks PDF parsing
-- Semester planning assistant
+- AI chatbot
+- Smart course recommendations
+- DegreeWorks parsing
+- Semester planning
 - University course database integration
 
-### Tech Stack
-`FastAPI` • `OpenAI API` • `Python` • `SQLite` • `Vector Database`
+**Tech Stack:**  
+FastAPI • OpenAI API • Python • SQLite • Vector Search
 
 ---
 
 ## 🏥 MedChart EHR
-Modern Electronic Health Record system focused on healthcare workflows and patient management.
+Modern Electronic Health Record platform focused on healthcare workflows.
 
 ### Features
 - Secure authentication
-- Patient dashboards
-- Clinical documentation workflows
-- Responsive web interface
-- Backend API architecture
-
-### Tech Stack
-`Flask` • `SQLite` • `HTML/CSS` • `Authentication Systems`
+- Patient dashboard
+- Clinical documentation
+- Backend API systems
 
 🌐 Live Demo:  
 https://medchart-ehr.vercel.app
@@ -78,16 +72,13 @@ https://medchart-ehr.vercel.app
 ---
 
 ## 🚌 Campus Bus Tracker
-Real-time transportation tracking platform for university students.
+Real-time university transportation tracking application.
 
 ### Features
-- Live bus tracking
-- ETA prediction
+- Live GPS tracking
+- ETA predictions
 - Interactive maps
-- Mobile-friendly design
-
-### Tech Stack
-`Python` • `Flask` • `Maps APIs`
+- Mobile-friendly interface
 
 ---
 
@@ -95,7 +86,17 @@ Real-time transportation tracking platform for university students.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,flask,fastapi,sqlite,aws,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,flask,fastapi,nodejs,sqlite,aws,git,linux,vscode" />
+
+</div>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=timey47&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -103,13 +104,11 @@ Real-time transportation tracking platform for university students.
 
 # GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timey47&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timey47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=timey47&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -117,11 +116,10 @@ Real-time transportation tracking platform for university students.
 
 - AI Engineering
 - Full Stack Development
-- Healthcare Technology
 - Machine Learning
-- Cloud Infrastructure
-- Backend Scalability
-- Technical Interview Preparation
+- Healthcare Technology
+- Backend Architecture
+- System Design
 
 ---
 
@@ -131,11 +129,5 @@ Real-time transportation tracking platform for university students.
 
 Open to:
 Software Engineering • AI Engineering • Healthcare Tech • Startup Collaboration
-
-<br><br>
-
-<a href="mailto:timey47@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Connect-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
