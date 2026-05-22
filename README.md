@@ -2,7 +2,9 @@
 
 # Timothy Alexander
 
-### Building AI-powered software for healthcare, education, and real-world systems.
+### AI Engineer • Full Stack Developer • Healthcare Tech Builder
+
+Building intelligent software that solves real-world problems in healthcare, education, and AI.
 
 <br>
 
@@ -18,55 +20,95 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://github.com/timey47">
+  <img src="https://img.shields.io/github/followers/timey47?style=for-the-badge&color=181717"/>
+</a>
+
 </div>
 
 ---
 
-# What I'm Building
+# About Me
 
-### 🧠 AdvisorGPT
-AI-powered academic advisor platform using RAG and university course data.
+Computer Science student at the **University of South Carolina** focused on building AI-powered software and scalable backend systems.
 
-**Built With:**  
-FastAPI • OpenAI API • SQLite • Vector Search
+Currently interested in:
+- Artificial Intelligence
+- Full Stack Development
+- Healthcare Technology
+- Machine Learning
+- Backend Engineering
+- System Design
 
 ---
 
-### 🏥 MedChart EHR
-Modern Electronic Health Record web application for healthcare workflows.
+# Featured Projects
 
-**Features**
-- Authentication
+## 🧠 AdvisorGPT
+AI-powered academic advisor platform built for university students.
+
+### Features
+- AI chatbot using RAG
+- Personalized course recommendations
+- DegreeWorks PDF parsing
+- Semester planning assistant
+- University course database integration
+
+### Tech Stack
+`FastAPI` • `OpenAI API` • `Python` • `SQLite` • `Vector Database`
+
+---
+
+## 🏥 MedChart EHR
+Modern Electronic Health Record system focused on healthcare workflows and patient management.
+
+### Features
+- Secure authentication
 - Patient dashboards
-- Clinical documentation
-- Secure backend systems
+- Clinical documentation workflows
+- Responsive web interface
+- Backend API architecture
 
-🌐 https://medchart-ehr.vercel.app
+### Tech Stack
+`Flask` • `SQLite` • `HTML/CSS` • `Authentication Systems`
+
+🌐 Live Demo:  
+https://medchart-ehr.vercel.app
 
 ---
 
-### 🚌 Campus Bus Tracker
+## 🚌 Campus Bus Tracker
 Real-time transportation tracking platform for university students.
 
-**Features**
-- Live tracking
+### Features
+- Live bus tracking
 - ETA prediction
 - Interactive maps
+- Mobile-friendly design
+
+### Tech Stack
+`Python` • `Flask` • `Maps APIs`
 
 ---
 
 # Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,flask,fastapi,sqlite,aws,git,linux" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,flask,fastapi,sqlite,aws,git,linux,vscode" />
+
+</div>
 
 ---
 
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timey47&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=timey47&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timey47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -76,16 +118,24 @@ Real-time transportation tracking platform for university students.
 - AI Engineering
 - Full Stack Development
 - Healthcare Technology
-- Backend Systems
 - Machine Learning
-- System Design
+- Cloud Infrastructure
+- Backend Scalability
+- Technical Interview Preparation
 
 ---
 
-# Connect
+# Connect With Me
+
+<div align="center">
 
 Open to:
-- Software Engineering Internships
-- AI Engineering Opportunities
-- Healthcare Tech Projects
-- Startup Collaboration
+Software Engineering • AI Engineering • Healthcare Tech • Startup Collaboration
+
+<br><br>
+
+<a href="mailto:timey47@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Connect-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
