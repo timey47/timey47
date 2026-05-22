@@ -70,17 +70,6 @@ https://medchart-ehr.vercel.app
 
 ---
 
-## 🚌 Campus Bus Tracker
-Real-time university transportation tracking application.
-
-### Features
-- Live GPS tracking
-- ETA predictions
-- Interactive maps
-- Mobile-friendly interface
-
----
-
 # Tech Stack
 
 <div align="center">
