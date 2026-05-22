@@ -36,7 +36,6 @@ Building intelligent software focused on AI, healthcare, and scalable systems.
 - 🧠 Interested in Artificial Intelligence, Full Stack Development, and Healthcare Technology
 - 🚀 Building AI-powered applications and scalable backend systems
 - 💻 Currently working on AI + healthcare focused projects
-- 🎹 Piano player and worship musician
 
 ---
 
