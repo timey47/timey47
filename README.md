@@ -127,15 +127,6 @@ I'm particularly interested in opportunities where **technology, artificial inte
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=timey47&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 # 🔥 GitHub Stats
 
