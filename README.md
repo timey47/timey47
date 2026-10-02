@@ -2,7 +2,7 @@
 
 # 👋 Timothy Alexander
 
-### AI Engineer · Forward Deployed Engineer · Software Developer
+### Forward Deployed Engineer
 
 **Building intelligent systems and AI-powered products from idea to deployment.**
 
